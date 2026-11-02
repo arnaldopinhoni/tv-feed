@@ -1,0 +1,114 @@
+[
+  {
+    "term": "be all over (something)",
+    "definition": "estar espalhado por toda parte; cobrir tudo (expressão)",
+    "theme": "expression",
+    "level": "0",
+    "added": "2026-08-10",
+    "example": "By morning, the story was all over the internet."
+  },
+  {
+    "term": "lead into",
+    "definition": "levar a, conduzir a; em \"leading into X\", o período que antecede X (phrasal)",
+    "theme": "expression",
+    "level": "0",
+    "added": "2026-08-10",
+    "example": "He trained hard in the weeks leading into the fight."
+  },
+  {
+    "term": "quick turnaround",
+    "definition": "prazo curto de entrega; tempo de resposta rápido",
+    "theme": "general",
+    "level": "0",
+    "added": "2026-08-10",
+    "example": "They need it by Friday — that's a quick turnaround."
+  },
+  {
+    "term": "way out",
+    "definition": "bem longe, bem afastado (\"way\" intensifica a distância)",
+    "theme": "expression",
+    "level": "0",
+    "added": "2026-08-10",
+    "example": "He started from way out and closed the distance fast."
+  },
+  {
+    "term": "thus",
+    "definition": "portanto, assim, dessa forma (formal; comum em docs e textos técnicos)",
+    "theme": "general",
+    "level": "0",
+    "added": "2026-08-10",
+    "example": "The cluster was idle, thus no cost was incurred."
+  },
+  {
+    "term": "pose (a problem / a threat / a risk)",
+    "definition": "representar, constituir, apresentar (um problema, ameaça, risco)",
+    "theme": "general",
+    "level": "0",
+    "added": "2026-08-10",
+    "example": "This enormous waste of food poses a significant economic burden."
+  },
+  {
+    "term": "burden",
+    "definition": "fardo, peso, ônus (financeiro ou emocional); como verbo, sobrecarregar",
+    "theme": "general",
+    "level": "0",
+    "added": "2026-08-10",
+    "example": "Rising costs put a heavy burden on small farmers."
+  },
+  {
+    "term": "shed",
+    "definition": "soltar, perder, desfazer-se de (folhas, peso, empregos); em \"shed light on\", esclarecer, lançar luz sobre (irregular: shed / shed / shed)",
+    "theme": "general",
+    "level": "0",
+    "added": "2026-08-10",
+    "example": "The report sheds light on how much food is wasted every year."
+  },
+  {
+    "term": "crosstalk",
+    "definition": "comunicação cruzada entre sistemas que pareciam independentes; em biologia, interação entre vias de sinalização; em eletrônica, diafonia (interferência)",
+    "theme": "general",
+    "level": "0",
+    "added": "2026-08-10",
+    "example": "There is constant metabolic crosstalk between the gut and the liver."
+  },
+  {
+    "term": "tender",
+    "definition": "macio, tenro (carne, legumes); com pessoas, carinhoso, terno (oposto de \"tough\")",
+    "theme": "general",
+    "level": "0",
+    "added": "2026-08-10",
+    "example": "The chicken was so tender it fell off the bone."
+  },
+  {
+    "term": "baking soda",
+    "definition": "bicarbonato de sódio (não confundir com \"baking powder\", que é o fermento em pó)",
+    "theme": "general",
+    "level": "0",
+    "added": "2026-08-10",
+    "example": "Add half a teaspoon of baking soda to the batter."
+  },
+  {
+    "term": "starch",
+    "definition": "amido, fécula; adjetivo \"starchy\" = rico em amido",
+    "theme": "general",
+    "level": "0",
+    "added": "2026-08-10",
+    "example": "Potatoes and rice are high in starch."
+  },
+  {
+    "term": "stir-fry",
+    "definition": "saltear em fogo alto mexendo sempre (verbo); como substantivo, o prato salteado tipo wok",
+    "theme": "general",
+    "level": "0",
+    "added": "2026-08-10",
+    "example": "Stir-fry the vegetables for about three minutes."
+  },
+  {
+    "term": "powder",
+    "definition": "pó (substância em partículas finas); \"powdered\" = em pó, como em powdered milk (leite em pó)",
+    "theme": "general",
+    "level": "0",
+    "added": "2026-08-10",
+    "example": "Mix the chili powder into the sauce."
+  }
+]
