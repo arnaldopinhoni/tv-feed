@@ -39,7 +39,9 @@ function rotate(list) {
   return list.slice(shift).concat(list.slice(0, shift));
 }
 
-const terms = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'terms.json'), 'utf8'));
+// Alguns editores (e o PowerShell) gravam BOM, que o JSON.parse rejeita.
+const raw = fs.readFileSync(path.join(ROOT, 'data', 'terms.json'), 'utf8').replace(/^﻿/, '');
+const terms = JSON.parse(raw);
 const rotated = rotate(terms);
 const now = Date.now();
 
