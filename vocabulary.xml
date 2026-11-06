@@ -5,137 +5,7 @@
     <link>https://arnaldopinhoni.github.io/tv-feed/vocabulary.xml</link>
     <description>Vocabulário de inglês</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 06 Nov 2026 03:12:45 GMT</lastBuildDate>
-    <item>
-      <title>starch</title>
-      <description>amido, fécula; adjetivo &quot;starchy&quot; = rico em amido
-
-&quot;Potatoes and rice are high in starch.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/starch.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/starch.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/starch.png" medium="image"/>
-      <pubDate>Fri, 06 Nov 2026 03:12:45 GMT</pubDate>
-      <guid isPermaLink="false">vocab-starch</guid>
-    </item>
-    <item>
-      <title>stir-fry</title>
-      <description>saltear em fogo alto mexendo sempre (verbo); como substantivo, o prato salteado tipo wok
-
-&quot;Stir-fry the vegetables for about three minutes.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png" medium="image"/>
-      <pubDate>Fri, 06 Nov 2026 03:11:45 GMT</pubDate>
-      <guid isPermaLink="false">vocab-stir-fry</guid>
-    </item>
-    <item>
-      <title>powder</title>
-      <description>pó (substância em partículas finas); &quot;powdered&quot; = em pó, como em powdered milk (leite em pó)
-
-&quot;Mix the chili powder into the sauce.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png" medium="image"/>
-      <pubDate>Fri, 06 Nov 2026 03:10:45 GMT</pubDate>
-      <guid isPermaLink="false">vocab-powder</guid>
-    </item>
-    <item>
-      <title>be all over (something)</title>
-      <description>estar espalhado por toda parte; cobrir tudo (expressão)
-
-&quot;By morning, the story was all over the internet.&quot;
-
-[expression]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png" medium="image"/>
-      <pubDate>Fri, 06 Nov 2026 03:09:45 GMT</pubDate>
-      <guid isPermaLink="false">vocab-be-all-over-something</guid>
-    </item>
-    <item>
-      <title>lead into</title>
-      <description>levar a, conduzir a; em &quot;leading into X&quot;, o período que antecede X (phrasal)
-
-&quot;He trained hard in the weeks leading into the fight.&quot;
-
-[expression]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png" medium="image"/>
-      <pubDate>Fri, 06 Nov 2026 03:08:45 GMT</pubDate>
-      <guid isPermaLink="false">vocab-lead-into</guid>
-    </item>
-    <item>
-      <title>quick turnaround</title>
-      <description>prazo curto de entrega; tempo de resposta rápido
-
-&quot;They need it by Friday — that's a quick turnaround.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png" medium="image"/>
-      <pubDate>Fri, 06 Nov 2026 03:07:45 GMT</pubDate>
-      <guid isPermaLink="false">vocab-quick-turnaround</guid>
-    </item>
-    <item>
-      <title>way out</title>
-      <description>bem longe, bem afastado (&quot;way&quot; intensifica a distância)
-
-&quot;He started from way out and closed the distance fast.&quot;
-
-[expression]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/way-out.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/way-out.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/way-out.png" medium="image"/>
-      <pubDate>Fri, 06 Nov 2026 03:06:45 GMT</pubDate>
-      <guid isPermaLink="false">vocab-way-out</guid>
-    </item>
-    <item>
-      <title>thus</title>
-      <description>portanto, assim, dessa forma (formal; comum em docs e textos técnicos)
-
-&quot;The cluster was idle, thus no cost was incurred.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png" medium="image"/>
-      <pubDate>Fri, 06 Nov 2026 03:05:45 GMT</pubDate>
-      <guid isPermaLink="false">vocab-thus</guid>
-    </item>
-    <item>
-      <title>pose (a problem / a threat / a risk)</title>
-      <description>representar, constituir, apresentar (um problema, ameaça, risco)
-
-&quot;This enormous waste of food poses a significant economic burden.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png" medium="image"/>
-      <pubDate>Fri, 06 Nov 2026 03:04:45 GMT</pubDate>
-      <guid isPermaLink="false">vocab-pose-a-problem-a-threat-a-risk</guid>
-    </item>
-    <item>
-      <title>burden</title>
-      <description>fardo, peso, ônus (financeiro ou emocional); como verbo, sobrecarregar
-
-&quot;Rising costs put a heavy burden on small farmers.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png" medium="image"/>
-      <pubDate>Fri, 06 Nov 2026 03:03:45 GMT</pubDate>
-      <guid isPermaLink="false">vocab-burden</guid>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 11:06:46 GMT</lastBuildDate>
     <item>
       <title>shed</title>
       <description>soltar, perder, desfazer-se de (folhas, peso, empregos); em &quot;shed light on&quot;, esclarecer, lançar luz sobre (irregular: shed / shed / shed)
@@ -146,7 +16,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/shed.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/shed.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/shed.png" medium="image"/>
-      <pubDate>Fri, 06 Nov 2026 03:02:45 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 11:06:46 GMT</pubDate>
       <guid isPermaLink="false">vocab-shed</guid>
     </item>
     <item>
@@ -159,7 +29,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/crosstalk.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/crosstalk.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/crosstalk.png" medium="image"/>
-      <pubDate>Fri, 06 Nov 2026 03:01:45 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 11:05:46 GMT</pubDate>
       <guid isPermaLink="false">vocab-crosstalk</guid>
     </item>
     <item>
@@ -172,7 +42,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/tender.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/tender.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/tender.png" medium="image"/>
-      <pubDate>Fri, 06 Nov 2026 03:00:45 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 11:04:46 GMT</pubDate>
       <guid isPermaLink="false">vocab-tender</guid>
     </item>
     <item>
@@ -185,8 +55,138 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/baking-soda.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/baking-soda.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/baking-soda.png" medium="image"/>
-      <pubDate>Fri, 06 Nov 2026 02:59:45 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 11:03:46 GMT</pubDate>
       <guid isPermaLink="false">vocab-baking-soda</guid>
+    </item>
+    <item>
+      <title>starch</title>
+      <description>amido, fécula; adjetivo &quot;starchy&quot; = rico em amido
+
+&quot;Potatoes and rice are high in starch.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/starch.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/starch.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/starch.png" medium="image"/>
+      <pubDate>Fri, 06 Nov 2026 11:02:46 GMT</pubDate>
+      <guid isPermaLink="false">vocab-starch</guid>
+    </item>
+    <item>
+      <title>stir-fry</title>
+      <description>saltear em fogo alto mexendo sempre (verbo); como substantivo, o prato salteado tipo wok
+
+&quot;Stir-fry the vegetables for about three minutes.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png" medium="image"/>
+      <pubDate>Fri, 06 Nov 2026 11:01:46 GMT</pubDate>
+      <guid isPermaLink="false">vocab-stir-fry</guid>
+    </item>
+    <item>
+      <title>powder</title>
+      <description>pó (substância em partículas finas); &quot;powdered&quot; = em pó, como em powdered milk (leite em pó)
+
+&quot;Mix the chili powder into the sauce.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png" medium="image"/>
+      <pubDate>Fri, 06 Nov 2026 11:00:46 GMT</pubDate>
+      <guid isPermaLink="false">vocab-powder</guid>
+    </item>
+    <item>
+      <title>be all over (something)</title>
+      <description>estar espalhado por toda parte; cobrir tudo (expressão)
+
+&quot;By morning, the story was all over the internet.&quot;
+
+[expression]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png" medium="image"/>
+      <pubDate>Fri, 06 Nov 2026 10:59:46 GMT</pubDate>
+      <guid isPermaLink="false">vocab-be-all-over-something</guid>
+    </item>
+    <item>
+      <title>lead into</title>
+      <description>levar a, conduzir a; em &quot;leading into X&quot;, o período que antecede X (phrasal)
+
+&quot;He trained hard in the weeks leading into the fight.&quot;
+
+[expression]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png" medium="image"/>
+      <pubDate>Fri, 06 Nov 2026 10:58:46 GMT</pubDate>
+      <guid isPermaLink="false">vocab-lead-into</guid>
+    </item>
+    <item>
+      <title>quick turnaround</title>
+      <description>prazo curto de entrega; tempo de resposta rápido
+
+&quot;They need it by Friday — that's a quick turnaround.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png" medium="image"/>
+      <pubDate>Fri, 06 Nov 2026 10:57:46 GMT</pubDate>
+      <guid isPermaLink="false">vocab-quick-turnaround</guid>
+    </item>
+    <item>
+      <title>way out</title>
+      <description>bem longe, bem afastado (&quot;way&quot; intensifica a distância)
+
+&quot;He started from way out and closed the distance fast.&quot;
+
+[expression]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/way-out.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/way-out.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/way-out.png" medium="image"/>
+      <pubDate>Fri, 06 Nov 2026 10:56:46 GMT</pubDate>
+      <guid isPermaLink="false">vocab-way-out</guid>
+    </item>
+    <item>
+      <title>thus</title>
+      <description>portanto, assim, dessa forma (formal; comum em docs e textos técnicos)
+
+&quot;The cluster was idle, thus no cost was incurred.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png" medium="image"/>
+      <pubDate>Fri, 06 Nov 2026 10:55:46 GMT</pubDate>
+      <guid isPermaLink="false">vocab-thus</guid>
+    </item>
+    <item>
+      <title>pose (a problem / a threat / a risk)</title>
+      <description>representar, constituir, apresentar (um problema, ameaça, risco)
+
+&quot;This enormous waste of food poses a significant economic burden.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png" medium="image"/>
+      <pubDate>Fri, 06 Nov 2026 10:54:46 GMT</pubDate>
+      <guid isPermaLink="false">vocab-pose-a-problem-a-threat-a-risk</guid>
+    </item>
+    <item>
+      <title>burden</title>
+      <description>fardo, peso, ônus (financeiro ou emocional); como verbo, sobrecarregar
+
+&quot;Rising costs put a heavy burden on small farmers.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png" medium="image"/>
+      <pubDate>Fri, 06 Nov 2026 10:53:46 GMT</pubDate>
+      <guid isPermaLink="false">vocab-burden</guid>
     </item>
   </channel>
 </rss>
