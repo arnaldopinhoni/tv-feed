@@ -5,72 +5,7 @@
     <link>https://arnaldopinhoni.github.io/tv-feed/vocabulary.xml</link>
     <description>Vocabulário de inglês</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 07 Nov 2026 09:39:05 GMT</lastBuildDate>
-    <item>
-      <title>thus</title>
-      <description>portanto, assim, dessa forma (formal; comum em docs e textos técnicos)
-
-&quot;The cluster was idle, thus no cost was incurred.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png" medium="image"/>
-      <pubDate>Sat, 07 Nov 2026 09:39:05 GMT</pubDate>
-      <guid isPermaLink="false">vocab-thus</guid>
-    </item>
-    <item>
-      <title>pose (a problem / a threat / a risk)</title>
-      <description>representar, constituir, apresentar (um problema, ameaça, risco)
-
-&quot;This enormous waste of food poses a significant economic burden.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png" medium="image"/>
-      <pubDate>Sat, 07 Nov 2026 09:38:05 GMT</pubDate>
-      <guid isPermaLink="false">vocab-pose-a-problem-a-threat-a-risk</guid>
-    </item>
-    <item>
-      <title>burden</title>
-      <description>fardo, peso, ônus (financeiro ou emocional); como verbo, sobrecarregar
-
-&quot;Rising costs put a heavy burden on small farmers.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png" medium="image"/>
-      <pubDate>Sat, 07 Nov 2026 09:37:05 GMT</pubDate>
-      <guid isPermaLink="false">vocab-burden</guid>
-    </item>
-    <item>
-      <title>shed</title>
-      <description>soltar, perder, desfazer-se de (folhas, peso, empregos); em &quot;shed light on&quot;, esclarecer, lançar luz sobre (irregular: shed / shed / shed)
-
-&quot;The report sheds light on how much food is wasted every year.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/shed.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/shed.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/shed.png" medium="image"/>
-      <pubDate>Sat, 07 Nov 2026 09:36:05 GMT</pubDate>
-      <guid isPermaLink="false">vocab-shed</guid>
-    </item>
-    <item>
-      <title>crosstalk</title>
-      <description>comunicação cruzada entre sistemas que pareciam independentes; em biologia, interação entre vias de sinalização; em eletrônica, diafonia (interferência)
-
-&quot;There is constant metabolic crosstalk between the gut and the liver.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/crosstalk.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/crosstalk.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/crosstalk.png" medium="image"/>
-      <pubDate>Sat, 07 Nov 2026 09:35:05 GMT</pubDate>
-      <guid isPermaLink="false">vocab-crosstalk</guid>
-    </item>
+    <lastBuildDate>Sat, 07 Nov 2026 15:55:25 GMT</lastBuildDate>
     <item>
       <title>tender</title>
       <description>macio, tenro (carne, legumes); com pessoas, carinhoso, terno (oposto de &quot;tough&quot;)
@@ -81,7 +16,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/tender.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/tender.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/tender.png" medium="image"/>
-      <pubDate>Sat, 07 Nov 2026 09:34:05 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 15:55:25 GMT</pubDate>
       <guid isPermaLink="false">vocab-tender</guid>
     </item>
     <item>
@@ -94,7 +29,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/baking-soda.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/baking-soda.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/baking-soda.png" medium="image"/>
-      <pubDate>Sat, 07 Nov 2026 09:33:05 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 15:54:25 GMT</pubDate>
       <guid isPermaLink="false">vocab-baking-soda</guid>
     </item>
     <item>
@@ -107,7 +42,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/starch.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/starch.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/starch.png" medium="image"/>
-      <pubDate>Sat, 07 Nov 2026 09:32:05 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 15:53:25 GMT</pubDate>
       <guid isPermaLink="false">vocab-starch</guid>
     </item>
     <item>
@@ -120,7 +55,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png" medium="image"/>
-      <pubDate>Sat, 07 Nov 2026 09:31:05 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 15:52:25 GMT</pubDate>
       <guid isPermaLink="false">vocab-stir-fry</guid>
     </item>
     <item>
@@ -133,7 +68,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png" medium="image"/>
-      <pubDate>Sat, 07 Nov 2026 09:30:05 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 15:51:25 GMT</pubDate>
       <guid isPermaLink="false">vocab-powder</guid>
     </item>
     <item>
@@ -146,7 +81,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png" medium="image"/>
-      <pubDate>Sat, 07 Nov 2026 09:29:05 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 15:50:25 GMT</pubDate>
       <guid isPermaLink="false">vocab-be-all-over-something</guid>
     </item>
     <item>
@@ -159,7 +94,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png" medium="image"/>
-      <pubDate>Sat, 07 Nov 2026 09:28:05 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 15:49:25 GMT</pubDate>
       <guid isPermaLink="false">vocab-lead-into</guid>
     </item>
     <item>
@@ -172,7 +107,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png" medium="image"/>
-      <pubDate>Sat, 07 Nov 2026 09:27:05 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 15:48:25 GMT</pubDate>
       <guid isPermaLink="false">vocab-quick-turnaround</guid>
     </item>
     <item>
@@ -185,8 +120,73 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/way-out.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/way-out.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/way-out.png" medium="image"/>
-      <pubDate>Sat, 07 Nov 2026 09:26:05 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 15:47:25 GMT</pubDate>
       <guid isPermaLink="false">vocab-way-out</guid>
+    </item>
+    <item>
+      <title>thus</title>
+      <description>portanto, assim, dessa forma (formal; comum em docs e textos técnicos)
+
+&quot;The cluster was idle, thus no cost was incurred.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png" medium="image"/>
+      <pubDate>Sat, 07 Nov 2026 15:46:25 GMT</pubDate>
+      <guid isPermaLink="false">vocab-thus</guid>
+    </item>
+    <item>
+      <title>pose (a problem / a threat / a risk)</title>
+      <description>representar, constituir, apresentar (um problema, ameaça, risco)
+
+&quot;This enormous waste of food poses a significant economic burden.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png" medium="image"/>
+      <pubDate>Sat, 07 Nov 2026 15:45:25 GMT</pubDate>
+      <guid isPermaLink="false">vocab-pose-a-problem-a-threat-a-risk</guid>
+    </item>
+    <item>
+      <title>burden</title>
+      <description>fardo, peso, ônus (financeiro ou emocional); como verbo, sobrecarregar
+
+&quot;Rising costs put a heavy burden on small farmers.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png" medium="image"/>
+      <pubDate>Sat, 07 Nov 2026 15:44:25 GMT</pubDate>
+      <guid isPermaLink="false">vocab-burden</guid>
+    </item>
+    <item>
+      <title>shed</title>
+      <description>soltar, perder, desfazer-se de (folhas, peso, empregos); em &quot;shed light on&quot;, esclarecer, lançar luz sobre (irregular: shed / shed / shed)
+
+&quot;The report sheds light on how much food is wasted every year.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/shed.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/shed.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/shed.png" medium="image"/>
+      <pubDate>Sat, 07 Nov 2026 15:43:25 GMT</pubDate>
+      <guid isPermaLink="false">vocab-shed</guid>
+    </item>
+    <item>
+      <title>crosstalk</title>
+      <description>comunicação cruzada entre sistemas que pareciam independentes; em biologia, interação entre vias de sinalização; em eletrônica, diafonia (interferência)
+
+&quot;There is constant metabolic crosstalk between the gut and the liver.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/crosstalk.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/crosstalk.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/crosstalk.png" medium="image"/>
+      <pubDate>Sat, 07 Nov 2026 15:42:25 GMT</pubDate>
+      <guid isPermaLink="false">vocab-crosstalk</guid>
     </item>
   </channel>
 </rss>
