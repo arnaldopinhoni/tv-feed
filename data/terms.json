@@ -1,6 +1,7 @@
 [
   {
     "term": "be all over (something)",
+    "ipa": "/bi ˌɔːl ˈoʊvər/",
     "definition": "estar espalhado por toda parte; cobrir tudo (expressão)",
     "theme": "expression",
     "level": "0",
@@ -9,6 +10,7 @@
   },
   {
     "term": "lead into",
+    "ipa": "/ˈliːd ˌɪntuː/",
     "definition": "levar a, conduzir a; em \"leading into X\", o período que antecede X (phrasal)",
     "theme": "expression",
     "level": "0",
@@ -17,6 +19,7 @@
   },
   {
     "term": "quick turnaround",
+    "ipa": "/ˌkwɪk ˈtɜːrnəraʊnd/",
     "definition": "prazo curto de entrega; tempo de resposta rápido",
     "theme": "general",
     "level": "0",
@@ -25,6 +28,7 @@
   },
   {
     "term": "way out",
+    "ipa": "/ˌweɪ ˈaʊt/",
     "definition": "bem longe, bem afastado (\"way\" intensifica a distância)",
     "theme": "expression",
     "level": "0",
@@ -33,6 +37,7 @@
   },
   {
     "term": "thus",
+    "ipa": "/ðʌs/",
     "definition": "portanto, assim, dessa forma (formal; comum em docs e textos técnicos)",
     "theme": "general",
     "level": "0",
@@ -41,6 +46,7 @@
   },
   {
     "term": "pose (a problem / a threat / a risk)",
+    "ipa": "/poʊz/",
     "definition": "representar, constituir, apresentar (um problema, ameaça, risco)",
     "theme": "general",
     "level": "0",
@@ -49,6 +55,7 @@
   },
   {
     "term": "burden",
+    "ipa": "/ˈbɜːrdən/",
     "definition": "fardo, peso, ônus (financeiro ou emocional); como verbo, sobrecarregar",
     "theme": "general",
     "level": "0",
@@ -57,6 +64,7 @@
   },
   {
     "term": "shed",
+    "ipa": "/ʃed/",
     "definition": "soltar, perder, desfazer-se de (folhas, peso, empregos); em \"shed light on\", esclarecer, lançar luz sobre (irregular: shed / shed / shed)",
     "theme": "general",
     "level": "0",
@@ -65,6 +73,7 @@
   },
   {
     "term": "crosstalk",
+    "ipa": "/ˈkrɔːstɔːk/",
     "definition": "comunicação cruzada entre sistemas que pareciam independentes; em biologia, interação entre vias de sinalização; em eletrônica, diafonia (interferência)",
     "theme": "general",
     "level": "0",
@@ -73,6 +82,7 @@
   },
   {
     "term": "tender",
+    "ipa": "/ˈtendər/",
     "definition": "macio, tenro (carne, legumes); com pessoas, carinhoso, terno (oposto de \"tough\")",
     "theme": "general",
     "level": "0",
@@ -81,6 +91,7 @@
   },
   {
     "term": "baking soda",
+    "ipa": "/ˈbeɪkɪŋ ˌsoʊdə/",
     "definition": "bicarbonato de sódio (não confundir com \"baking powder\", que é o fermento em pó)",
     "theme": "general",
     "level": "0",
@@ -89,6 +100,7 @@
   },
   {
     "term": "starch",
+    "ipa": "/stɑːrtʃ/",
     "definition": "amido, fécula; adjetivo \"starchy\" = rico em amido",
     "theme": "general",
     "level": "0",
@@ -97,6 +109,7 @@
   },
   {
     "term": "stir-fry",
+    "ipa": "/ˈstɜːr fraɪ/",
     "definition": "saltear em fogo alto mexendo sempre (verbo); como substantivo, o prato salteado tipo wok",
     "theme": "general",
     "level": "0",
@@ -105,6 +118,7 @@
   },
   {
     "term": "powder",
+    "ipa": "/ˈpaʊdər/",
     "definition": "pó (substância em partículas finas); \"powdered\" = em pó, como em powdered milk (leite em pó)",
     "theme": "general",
     "level": "0",
@@ -113,6 +127,7 @@
   },
   {
     "term": "boast",
+    "ipa": "/boʊst/",
     "definition": "gabar-se, se vangloriar (pejorativo); de coisa ou lugar, ostentar algo que vale orgulho, sem carga negativa",
     "theme": "general",
     "level": "0",
@@ -121,6 +136,7 @@
   },
   {
     "term": "haddock",
+    "ipa": "/ˈhædək/",
     "definition": "eglefim (*Melanogrammus aeglefinus*): peixe branco do Atlântico Norte, da família do bacalhau; o clássico do fish and chips",
     "theme": "fishing",
     "level": "0",
@@ -129,6 +145,7 @@
   },
   {
     "term": "hasten",
+    "ipa": "/ˈheɪsən/",
     "definition": "apressar, acelerar (quase sempre algo indesejado: morte, declínio, fim); com pessoa, apressar-se a fazer algo (formal)",
     "theme": "general",
     "level": "0",
@@ -137,6 +154,7 @@
   },
   {
     "term": "pluck",
+    "ipa": "/plʌk/",
     "definition": "arrancar, colher com um puxão rápido (fruta, pena, sobrancelha); em música, dedilhar a corda; como substantivo, coragem",
     "theme": "general",
     "level": "0",
@@ -145,6 +163,7 @@
   },
   {
     "term": "out of kilter",
+    "ipa": "/ˌaʊt əv ˈkɪltər/",
     "definition": "desregulado, desequilibrado, fora do prumo; \"throw (something) out of kilter\" = desajustar, tirar do eixo (variante: \"off kilter\")",
     "theme": "expression",
     "level": "0",
@@ -153,6 +172,7 @@
   },
   {
     "term": "blob",
+    "ipa": "/blɑːb/",
     "definition": "bolota, massa disforme e sem estrutura (\"one big blob of data\" = um amontoado de dados sem forma); em TI, BLOB (binary large object) é um dado binário grande guardado como um bloco só, como no Azure Blob Storage",
     "theme": "tech",
     "level": "0",
@@ -161,6 +181,7 @@
   },
   {
     "term": "for the sake of",
+    "ipa": "/fər ðə ˈseɪk əv/",
     "definition": "em prol de, por causa de, só para fins de (\"for the sake of argument\" = só para argumentar; \"for the sake of simplicity\" = para simplificar); não confundir com o saquê, que se pronuncia /ˈsɑːkeɪ/",
     "theme": "expression",
     "level": "0",
@@ -169,6 +190,7 @@
   },
   {
     "term": "bustling",
+    "ipa": "/ˈbʌsəlɪŋ/",
     "definition": "fervilhante, movimentado: cheio de gente em atividade e barulho (sempre positivo ou neutro, nunca caótico)",
     "theme": "general",
     "level": "0",
