@@ -110,5 +110,69 @@
     "level": "0",
     "added": "2026-08-10",
     "example": "Mix the chili powder into the sauce."
+  },
+  {
+    "term": "boast",
+    "definition": "gabar-se, se vangloriar (pejorativo); de coisa ou lugar, ostentar algo que vale orgulho, sem carga negativa",
+    "theme": "general",
+    "level": "0",
+    "added": "2026-10-16",
+    "example": "He boasted about closing the deal on his own."
+  },
+  {
+    "term": "haddock",
+    "definition": "eglefim (*Melanogrammus aeglefinus*): peixe branco do Atlântico Norte, da família do bacalhau; o clássico do fish and chips",
+    "theme": "fishing",
+    "level": "0",
+    "added": "2026-10-16",
+    "example": "Haddock is the usual choice for fish and chips."
+  },
+  {
+    "term": "hasten",
+    "definition": "apressar, acelerar (quase sempre algo indesejado: morte, declínio, fim); com pessoa, apressar-se a fazer algo (formal)",
+    "theme": "general",
+    "level": "0",
+    "added": "2026-10-19",
+    "example": "Drinking saltwater only hastens death."
+  },
+  {
+    "term": "pluck",
+    "definition": "arrancar, colher com um puxão rápido (fruta, pena, sobrancelha); em música, dedilhar a corda; como substantivo, coragem",
+    "theme": "general",
+    "level": "0",
+    "added": "2026-10-19",
+    "example": "She plucked an apple from the tree."
+  },
+  {
+    "term": "out of kilter",
+    "definition": "desregulado, desequilibrado, fora do prumo; \"throw (something) out of kilter\" = desajustar, tirar do eixo (variante: \"off kilter\")",
+    "theme": "expression",
+    "level": "0",
+    "added": "2026-10-19",
+    "example": "One bad join can throw the whole data model out of kilter."
+  },
+  {
+    "term": "blob",
+    "definition": "bolota, massa disforme e sem estrutura (\"one big blob of data\" = um amontoado de dados sem forma); em TI, BLOB (binary large object) é um dado binário grande guardado como um bloco só, como no Azure Blob Storage",
+    "theme": "tech",
+    "level": "0",
+    "added": "2026-10-19",
+    "example": "The raw files land in blob storage before any processing."
+  },
+  {
+    "term": "for the sake of",
+    "definition": "em prol de, por causa de, só para fins de (\"for the sake of argument\" = só para argumentar; \"for the sake of simplicity\" = para simplificar); não confundir com o saquê, que se pronuncia /ˈsɑːkeɪ/",
+    "theme": "expression",
+    "level": "0",
+    "added": "2026-10-19",
+    "example": "Let’s ignore taxes, just for the sake of simplicity."
+  },
+  {
+    "term": "bustling",
+    "definition": "fervilhante, movimentado: cheio de gente em atividade e barulho (sempre positivo ou neutro, nunca caótico)",
+    "theme": "general",
+    "level": "0",
+    "added": "2026-10-20",
+    "example": "The aquarium sits in a bustling part of the waterfront."
   }
 ]
