@@ -1,0 +1,55 @@
+name: Sincronizar com o vault
+
+# Traz para o feed as palavras que a newsletter manda na semana. Roda na
+# segunda, depois do envio das 03:07 UTC, quando o pool da semana já está
+# definido. O vault é privado, então o checkout dele precisa de um token —
+# veja VAULT_TOKEN no README.
+on:
+  schedule:
+    - cron: '40 04 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Baixar o vault
+        uses: actions/checkout@v4
+        with:
+          repository: arnaldopinhoni/personal-sync
+          token: ${{ secrets.VAULT_TOKEN }}
+          path: vault
+          sparse-checkout: |
+            Static/_Inbox.md
+            Static/Attachment/vocab
+          sparse-checkout-cone-mode: false
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # o runner do ubuntu-latest já traz o ImageMagick, usado para desenhar os cards
+
+      - name: Sincronizar
+        env:
+          VAULT_DIR: ${{ github.workspace }}/vault
+        run: python3 scripts/sync_from_vault.py
+
+      - name: Commitar se mudou
+        run: |
+          if git diff --quiet -- data cards; then
+            echo "nenhuma palavra nova"
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data cards vocabulary.xml
+          git commit -m 'Traz as palavras da semana do vault'
+          # o job de rotação publica a cada 20 min; rebase evita corrida com ele
+          git pull --rebase origin main
+          git push

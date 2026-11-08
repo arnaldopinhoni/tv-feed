@@ -11,6 +11,7 @@ Desenha com ImageMagick, para rodar onde o gerador em .NET nao existe. So
 cria o que falta, a menos que receba --force.
 """
 import json
+import os
 import re
 import subprocess
 import sys
@@ -18,7 +19,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CARDS = ROOT / "cards"
-VAULT_VOCAB = Path("/home/user/Personal-sync/Static/Attachment/vocab")
+# Onde estao as fotos. O padrao serve para o vault clonado ao lado deste repo;
+# VAULT_DIR aponta para outro lugar (no PC, ou no runner do GitHub Actions).
+VAULT_DIR = Path(os.environ.get("VAULT_DIR", ROOT.parent / "Personal-sync"))
+VAULT_VOCAB = VAULT_DIR / "Static" / "Attachment" / "vocab"
 
 W, H = 480, 640
 MARGIN = 48
