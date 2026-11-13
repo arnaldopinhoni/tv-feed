@@ -5,46 +5,7 @@
     <link>https://arnaldopinhoni.github.io/tv-feed/vocabulary.xml</link>
     <description>Vocabulário de inglês</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 13 Nov 2026 08:07:52 GMT</lastBuildDate>
-    <item>
-      <title>boast</title>
-      <description>gabar-se, se vangloriar (pejorativo); de coisa ou lugar, ostentar algo que vale orgulho, sem carga negativa
-
-&quot;He boasted about closing the deal on his own.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/boast.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/boast.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/boast.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 08:07:52 GMT</pubDate>
-      <guid isPermaLink="false">vocab-boast</guid>
-    </item>
-    <item>
-      <title>haddock</title>
-      <description>eglefim (*Melanogrammus aeglefinus*): peixe branco do Atlântico Norte, da família do bacalhau; o clássico do fish and chips
-
-&quot;Haddock is the usual choice for fish and chips.&quot;
-
-[fishing]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/haddock.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/haddock.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/haddock.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 08:06:52 GMT</pubDate>
-      <guid isPermaLink="false">vocab-haddock</guid>
-    </item>
-    <item>
-      <title>hasten</title>
-      <description>apressar, acelerar (quase sempre algo indesejado: morte, declínio, fim); com pessoa, apressar-se a fazer algo (formal)
-
-&quot;Drinking saltwater only hastens death.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/hasten.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/hasten.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/hasten.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 08:05:52 GMT</pubDate>
-      <guid isPermaLink="false">vocab-hasten</guid>
-    </item>
+    <lastBuildDate>Fri, 13 Nov 2026 16:32:07 GMT</lastBuildDate>
     <item>
       <title>pluck</title>
       <description>arrancar, colher com um puxão rápido (fruta, pena, sobrancelha); em música, dedilhar a corda; como substantivo, coragem
@@ -55,7 +16,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/pluck.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/pluck.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/pluck.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 08:04:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:32:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-pluck</guid>
     </item>
     <item>
@@ -68,7 +29,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/out-of-kilter.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/out-of-kilter.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/out-of-kilter.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 08:03:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:31:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-out-of-kilter</guid>
     </item>
     <item>
@@ -81,7 +42,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/blob.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/blob.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/blob.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 08:02:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:30:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-blob</guid>
     </item>
     <item>
@@ -94,7 +55,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/for-the-sake-of.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/for-the-sake-of.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/for-the-sake-of.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 08:01:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:29:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-for-the-sake-of</guid>
     </item>
     <item>
@@ -107,7 +68,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/bustling.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/bustling.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/bustling.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 08:00:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:28:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-bustling</guid>
     </item>
     <item>
@@ -120,7 +81,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 07:59:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:27:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-be-all-over-something</guid>
     </item>
     <item>
@@ -133,7 +94,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 07:58:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:26:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-lead-into</guid>
     </item>
     <item>
@@ -146,7 +107,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 07:57:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:25:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-quick-turnaround</guid>
     </item>
     <item>
@@ -159,7 +120,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/way-out.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/way-out.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/way-out.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 07:56:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:24:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-way-out</guid>
     </item>
     <item>
@@ -172,7 +133,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 07:55:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:23:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-thus</guid>
     </item>
     <item>
@@ -185,7 +146,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 07:54:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:22:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-pose-a-problem-a-threat-a-risk</guid>
     </item>
     <item>
@@ -198,7 +159,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 07:53:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:21:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-burden</guid>
     </item>
     <item>
@@ -211,7 +172,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/shed.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/shed.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/shed.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 07:52:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:20:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-shed</guid>
     </item>
     <item>
@@ -224,7 +185,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/crosstalk.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/crosstalk.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/crosstalk.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 07:51:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:19:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-crosstalk</guid>
     </item>
     <item>
@@ -237,7 +198,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/tender.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/tender.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/tender.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 07:50:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:18:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-tender</guid>
     </item>
     <item>
@@ -250,7 +211,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/baking-soda.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/baking-soda.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/baking-soda.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 07:49:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:17:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-baking-soda</guid>
     </item>
     <item>
@@ -263,7 +224,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/starch.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/starch.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/starch.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 07:48:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:16:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-starch</guid>
     </item>
     <item>
@@ -276,7 +237,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 07:47:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:15:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-stir-fry</guid>
     </item>
     <item>
@@ -289,8 +250,47 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 07:46:52 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 16:14:07 GMT</pubDate>
       <guid isPermaLink="false">vocab-powder</guid>
+    </item>
+    <item>
+      <title>boast</title>
+      <description>gabar-se, se vangloriar (pejorativo); de coisa ou lugar, ostentar algo que vale orgulho, sem carga negativa
+
+&quot;He boasted about closing the deal on his own.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/boast.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/boast.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/boast.png" medium="image"/>
+      <pubDate>Fri, 13 Nov 2026 16:13:07 GMT</pubDate>
+      <guid isPermaLink="false">vocab-boast</guid>
+    </item>
+    <item>
+      <title>haddock</title>
+      <description>eglefim (*Melanogrammus aeglefinus*): peixe branco do Atlântico Norte, da família do bacalhau; o clássico do fish and chips
+
+&quot;Haddock is the usual choice for fish and chips.&quot;
+
+[fishing]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/haddock.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/haddock.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/haddock.png" medium="image"/>
+      <pubDate>Fri, 13 Nov 2026 16:12:07 GMT</pubDate>
+      <guid isPermaLink="false">vocab-haddock</guid>
+    </item>
+    <item>
+      <title>hasten</title>
+      <description>apressar, acelerar (quase sempre algo indesejado: morte, declínio, fim); com pessoa, apressar-se a fazer algo (formal)
+
+&quot;Drinking saltwater only hastens death.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/hasten.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/hasten.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/hasten.png" medium="image"/>
+      <pubDate>Fri, 13 Nov 2026 16:11:07 GMT</pubDate>
+      <guid isPermaLink="false">vocab-hasten</guid>
     </item>
   </channel>
 </rss>
