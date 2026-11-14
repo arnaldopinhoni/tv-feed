@@ -5,176 +5,7 @@
     <link>https://arnaldopinhoni.github.io/tv-feed/vocabulary.xml</link>
     <description>Vocabulário de inglês</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 13 Nov 2026 22:09:42 GMT</lastBuildDate>
-    <item>
-      <title>stir-fry</title>
-      <description>saltear em fogo alto mexendo sempre (verbo); como substantivo, o prato salteado tipo wok
-
-&quot;Stir-fry the vegetables for about three minutes.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 22:09:42 GMT</pubDate>
-      <guid isPermaLink="false">vocab-stir-fry</guid>
-    </item>
-    <item>
-      <title>powder</title>
-      <description>pó (substância em partículas finas); &quot;powdered&quot; = em pó, como em powdered milk (leite em pó)
-
-&quot;Mix the chili powder into the sauce.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 22:08:42 GMT</pubDate>
-      <guid isPermaLink="false">vocab-powder</guid>
-    </item>
-    <item>
-      <title>boast</title>
-      <description>gabar-se, se vangloriar (pejorativo); de coisa ou lugar, ostentar algo que vale orgulho, sem carga negativa
-
-&quot;He boasted about closing the deal on his own.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/boast.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/boast.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/boast.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 22:07:42 GMT</pubDate>
-      <guid isPermaLink="false">vocab-boast</guid>
-    </item>
-    <item>
-      <title>haddock</title>
-      <description>eglefim (*Melanogrammus aeglefinus*): peixe branco do Atlântico Norte, da família do bacalhau; o clássico do fish and chips
-
-&quot;Haddock is the usual choice for fish and chips.&quot;
-
-[fishing]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/haddock.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/haddock.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/haddock.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 22:06:42 GMT</pubDate>
-      <guid isPermaLink="false">vocab-haddock</guid>
-    </item>
-    <item>
-      <title>hasten</title>
-      <description>apressar, acelerar (quase sempre algo indesejado: morte, declínio, fim); com pessoa, apressar-se a fazer algo (formal)
-
-&quot;Drinking saltwater only hastens death.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/hasten.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/hasten.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/hasten.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 22:05:42 GMT</pubDate>
-      <guid isPermaLink="false">vocab-hasten</guid>
-    </item>
-    <item>
-      <title>pluck</title>
-      <description>arrancar, colher com um puxão rápido (fruta, pena, sobrancelha); em música, dedilhar a corda; como substantivo, coragem
-
-&quot;She plucked an apple from the tree.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/pluck.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/pluck.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/pluck.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 22:04:42 GMT</pubDate>
-      <guid isPermaLink="false">vocab-pluck</guid>
-    </item>
-    <item>
-      <title>out of kilter</title>
-      <description>desregulado, desequilibrado, fora do prumo; &quot;throw (something) out of kilter&quot; = desajustar, tirar do eixo (variante: &quot;off kilter&quot;)
-
-&quot;One bad join can throw the whole data model out of kilter.&quot;
-
-[expression]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/out-of-kilter.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/out-of-kilter.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/out-of-kilter.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 22:03:42 GMT</pubDate>
-      <guid isPermaLink="false">vocab-out-of-kilter</guid>
-    </item>
-    <item>
-      <title>blob</title>
-      <description>bolota, massa disforme e sem estrutura (&quot;one big blob of data&quot; = um amontoado de dados sem forma); em TI, BLOB (binary large object) é um dado binário grande guardado como um bloco só, como no Azure Blob Storage
-
-&quot;The raw files land in blob storage before any processing.&quot;
-
-[tech]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/blob.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/blob.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/blob.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 22:02:42 GMT</pubDate>
-      <guid isPermaLink="false">vocab-blob</guid>
-    </item>
-    <item>
-      <title>for the sake of</title>
-      <description>em prol de, por causa de, só para fins de (&quot;for the sake of argument&quot; = só para argumentar; &quot;for the sake of simplicity&quot; = para simplificar); não confundir com o saquê, que se pronuncia /ˈsɑːkeɪ/
-
-&quot;Let’s ignore taxes, just for the sake of simplicity.&quot;
-
-[expression]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/for-the-sake-of.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/for-the-sake-of.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/for-the-sake-of.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 22:01:42 GMT</pubDate>
-      <guid isPermaLink="false">vocab-for-the-sake-of</guid>
-    </item>
-    <item>
-      <title>bustling</title>
-      <description>fervilhante, movimentado: cheio de gente em atividade e barulho (sempre positivo ou neutro, nunca caótico)
-
-&quot;The aquarium sits in a bustling part of the waterfront.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/bustling.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/bustling.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/bustling.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 22:00:42 GMT</pubDate>
-      <guid isPermaLink="false">vocab-bustling</guid>
-    </item>
-    <item>
-      <title>be all over (something)</title>
-      <description>estar espalhado por toda parte; cobrir tudo (expressão)
-
-&quot;By morning, the story was all over the internet.&quot;
-
-[expression]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 21:59:42 GMT</pubDate>
-      <guid isPermaLink="false">vocab-be-all-over-something</guid>
-    </item>
-    <item>
-      <title>lead into</title>
-      <description>levar a, conduzir a; em &quot;leading into X&quot;, o período que antecede X (phrasal)
-
-&quot;He trained hard in the weeks leading into the fight.&quot;
-
-[expression]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 21:58:42 GMT</pubDate>
-      <guid isPermaLink="false">vocab-lead-into</guid>
-    </item>
-    <item>
-      <title>quick turnaround</title>
-      <description>prazo curto de entrega; tempo de resposta rápido
-
-&quot;They need it by Friday — that's a quick turnaround.&quot;
-
-[general]</description>
-      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png" type="image/png" length="0"/>
-      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png"/>
-      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 21:57:42 GMT</pubDate>
-      <guid isPermaLink="false">vocab-quick-turnaround</guid>
-    </item>
+    <lastBuildDate>Sat, 14 Nov 2026 02:29:48 GMT</lastBuildDate>
     <item>
       <title>way out</title>
       <description>bem longe, bem afastado (&quot;way&quot; intensifica a distância)
@@ -185,7 +16,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/way-out.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/way-out.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/way-out.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 21:56:42 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 02:29:48 GMT</pubDate>
       <guid isPermaLink="false">vocab-way-out</guid>
     </item>
     <item>
@@ -198,7 +29,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/thus.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 21:55:42 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 02:28:48 GMT</pubDate>
       <guid isPermaLink="false">vocab-thus</guid>
     </item>
     <item>
@@ -211,7 +42,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/pose-a-problem-a-threat-a-risk.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 21:54:42 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 02:27:48 GMT</pubDate>
       <guid isPermaLink="false">vocab-pose-a-problem-a-threat-a-risk</guid>
     </item>
     <item>
@@ -224,7 +55,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/burden.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 21:53:42 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 02:26:48 GMT</pubDate>
       <guid isPermaLink="false">vocab-burden</guid>
     </item>
     <item>
@@ -237,7 +68,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/shed.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/shed.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/shed.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 21:52:42 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 02:25:48 GMT</pubDate>
       <guid isPermaLink="false">vocab-shed</guid>
     </item>
     <item>
@@ -250,7 +81,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/crosstalk.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/crosstalk.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/crosstalk.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 21:51:42 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 02:24:48 GMT</pubDate>
       <guid isPermaLink="false">vocab-crosstalk</guid>
     </item>
     <item>
@@ -263,7 +94,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/tender.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/tender.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/tender.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 21:50:42 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 02:23:48 GMT</pubDate>
       <guid isPermaLink="false">vocab-tender</guid>
     </item>
     <item>
@@ -276,7 +107,7 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/baking-soda.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/baking-soda.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/baking-soda.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 21:49:42 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 02:22:48 GMT</pubDate>
       <guid isPermaLink="false">vocab-baking-soda</guid>
     </item>
     <item>
@@ -289,8 +120,177 @@
       <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/starch.png" type="image/png" length="0"/>
       <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/starch.png"/>
       <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/starch.png" medium="image"/>
-      <pubDate>Fri, 13 Nov 2026 21:48:42 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 02:21:48 GMT</pubDate>
       <guid isPermaLink="false">vocab-starch</guid>
+    </item>
+    <item>
+      <title>stir-fry</title>
+      <description>saltear em fogo alto mexendo sempre (verbo); como substantivo, o prato salteado tipo wok
+
+&quot;Stir-fry the vegetables for about three minutes.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/stir-fry.png" medium="image"/>
+      <pubDate>Sat, 14 Nov 2026 02:20:48 GMT</pubDate>
+      <guid isPermaLink="false">vocab-stir-fry</guid>
+    </item>
+    <item>
+      <title>powder</title>
+      <description>pó (substância em partículas finas); &quot;powdered&quot; = em pó, como em powdered milk (leite em pó)
+
+&quot;Mix the chili powder into the sauce.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/powder.png" medium="image"/>
+      <pubDate>Sat, 14 Nov 2026 02:19:48 GMT</pubDate>
+      <guid isPermaLink="false">vocab-powder</guid>
+    </item>
+    <item>
+      <title>boast</title>
+      <description>gabar-se, se vangloriar (pejorativo); de coisa ou lugar, ostentar algo que vale orgulho, sem carga negativa
+
+&quot;He boasted about closing the deal on his own.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/boast.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/boast.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/boast.png" medium="image"/>
+      <pubDate>Sat, 14 Nov 2026 02:18:48 GMT</pubDate>
+      <guid isPermaLink="false">vocab-boast</guid>
+    </item>
+    <item>
+      <title>haddock</title>
+      <description>eglefim (*Melanogrammus aeglefinus*): peixe branco do Atlântico Norte, da família do bacalhau; o clássico do fish and chips
+
+&quot;Haddock is the usual choice for fish and chips.&quot;
+
+[fishing]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/haddock.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/haddock.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/haddock.png" medium="image"/>
+      <pubDate>Sat, 14 Nov 2026 02:17:48 GMT</pubDate>
+      <guid isPermaLink="false">vocab-haddock</guid>
+    </item>
+    <item>
+      <title>hasten</title>
+      <description>apressar, acelerar (quase sempre algo indesejado: morte, declínio, fim); com pessoa, apressar-se a fazer algo (formal)
+
+&quot;Drinking saltwater only hastens death.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/hasten.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/hasten.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/hasten.png" medium="image"/>
+      <pubDate>Sat, 14 Nov 2026 02:16:48 GMT</pubDate>
+      <guid isPermaLink="false">vocab-hasten</guid>
+    </item>
+    <item>
+      <title>pluck</title>
+      <description>arrancar, colher com um puxão rápido (fruta, pena, sobrancelha); em música, dedilhar a corda; como substantivo, coragem
+
+&quot;She plucked an apple from the tree.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/pluck.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/pluck.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/pluck.png" medium="image"/>
+      <pubDate>Sat, 14 Nov 2026 02:15:48 GMT</pubDate>
+      <guid isPermaLink="false">vocab-pluck</guid>
+    </item>
+    <item>
+      <title>out of kilter</title>
+      <description>desregulado, desequilibrado, fora do prumo; &quot;throw (something) out of kilter&quot; = desajustar, tirar do eixo (variante: &quot;off kilter&quot;)
+
+&quot;One bad join can throw the whole data model out of kilter.&quot;
+
+[expression]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/out-of-kilter.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/out-of-kilter.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/out-of-kilter.png" medium="image"/>
+      <pubDate>Sat, 14 Nov 2026 02:14:48 GMT</pubDate>
+      <guid isPermaLink="false">vocab-out-of-kilter</guid>
+    </item>
+    <item>
+      <title>blob</title>
+      <description>bolota, massa disforme e sem estrutura (&quot;one big blob of data&quot; = um amontoado de dados sem forma); em TI, BLOB (binary large object) é um dado binário grande guardado como um bloco só, como no Azure Blob Storage
+
+&quot;The raw files land in blob storage before any processing.&quot;
+
+[tech]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/blob.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/blob.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/blob.png" medium="image"/>
+      <pubDate>Sat, 14 Nov 2026 02:13:48 GMT</pubDate>
+      <guid isPermaLink="false">vocab-blob</guid>
+    </item>
+    <item>
+      <title>for the sake of</title>
+      <description>em prol de, por causa de, só para fins de (&quot;for the sake of argument&quot; = só para argumentar; &quot;for the sake of simplicity&quot; = para simplificar); não confundir com o saquê, que se pronuncia /ˈsɑːkeɪ/
+
+&quot;Let’s ignore taxes, just for the sake of simplicity.&quot;
+
+[expression]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/for-the-sake-of.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/for-the-sake-of.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/for-the-sake-of.png" medium="image"/>
+      <pubDate>Sat, 14 Nov 2026 02:12:48 GMT</pubDate>
+      <guid isPermaLink="false">vocab-for-the-sake-of</guid>
+    </item>
+    <item>
+      <title>bustling</title>
+      <description>fervilhante, movimentado: cheio de gente em atividade e barulho (sempre positivo ou neutro, nunca caótico)
+
+&quot;The aquarium sits in a bustling part of the waterfront.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/bustling.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/bustling.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/bustling.png" medium="image"/>
+      <pubDate>Sat, 14 Nov 2026 02:11:48 GMT</pubDate>
+      <guid isPermaLink="false">vocab-bustling</guid>
+    </item>
+    <item>
+      <title>be all over (something)</title>
+      <description>estar espalhado por toda parte; cobrir tudo (expressão)
+
+&quot;By morning, the story was all over the internet.&quot;
+
+[expression]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/be-all-over-something.png" medium="image"/>
+      <pubDate>Sat, 14 Nov 2026 02:10:48 GMT</pubDate>
+      <guid isPermaLink="false">vocab-be-all-over-something</guid>
+    </item>
+    <item>
+      <title>lead into</title>
+      <description>levar a, conduzir a; em &quot;leading into X&quot;, o período que antecede X (phrasal)
+
+&quot;He trained hard in the weeks leading into the fight.&quot;
+
+[expression]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/lead-into.png" medium="image"/>
+      <pubDate>Sat, 14 Nov 2026 02:09:48 GMT</pubDate>
+      <guid isPermaLink="false">vocab-lead-into</guid>
+    </item>
+    <item>
+      <title>quick turnaround</title>
+      <description>prazo curto de entrega; tempo de resposta rápido
+
+&quot;They need it by Friday — that's a quick turnaround.&quot;
+
+[general]</description>
+      <enclosure url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png" type="image/png" length="0"/>
+      <media:thumbnail url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png"/>
+      <media:content url="https://arnaldopinhoni.github.io/tv-feed/cards/quick-turnaround.png" medium="image"/>
+      <pubDate>Sat, 14 Nov 2026 02:08:48 GMT</pubDate>
+      <guid isPermaLink="false">vocab-quick-turnaround</guid>
     </item>
   </channel>
 </rss>
